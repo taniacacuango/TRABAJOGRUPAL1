@@ -1,2 +1,4 @@
 ¿Cuál es la diferencia entre una clase abstracta y una interfaz en POO?
 Una clase abstracta puede tener métodos implementados y no implementados, mientras que una interfaz tradicionalmente solo define métodos
+
+¿Cómo se implementa la sobrecarga de métodos y cuál es su utilidad?
