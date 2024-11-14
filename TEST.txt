@@ -3,3 +3,6 @@ Una clase abstracta puede tener métodos implementados y no implementados, mient
 
 ¿Cómo se implementa la sobrecarga de métodos y cuál es su utilidad?
 permite tener múltiples métodos con el mismo nombre pero diferentes parámetros en una clase, su utilidad es proporcionar diferentes formas de invocar una operación similar.
+
+¿Qué es el principio de responsabilidad única en POO y por qué es importante?
+
