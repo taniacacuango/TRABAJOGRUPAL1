@@ -13,3 +13,5 @@ Ocultamiento: Restringe el acceso a los detalles internos de implementación usa
 
 ¿Qué es el polimorfismo dinámico y cómo se aplica en tiempo de ejecución?
 permite que una referencia a una clase base invoque métodos de una clase derivada durante la ejecución, mediante la sobrescritura de métodos.
+
+¿Cómo se relacionan los conceptos de composición y herencia en POO?
