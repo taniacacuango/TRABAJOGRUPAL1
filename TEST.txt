@@ -10,3 +10,5 @@ permite tener múltiples métodos con el mismo nombre pero diferentes parámetro
 ¿Cuál es la diferencia entre la encapsulación y el ocultamiento de información?
 Encapsulación: Agrupa datos y métodos relacionados en una única unidad (clase). Es el "empaquetado" de funcionalidad relacionada.
 Ocultamiento: Restringe el acceso a los detalles internos de implementación usando modificadores de acceso (private, protected, public). Es la "protección" de los datos.
+
+¿Qué es el polimorfismo dinámico y cómo se aplica en tiempo de ejecución?
