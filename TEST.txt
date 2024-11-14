@@ -1,0 +1,1 @@
+¿Cuál es la diferencia entre una clase abstracta y una interfaz en POO?
