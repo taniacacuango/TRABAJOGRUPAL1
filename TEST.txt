@@ -34,3 +34,5 @@ Composición: Relación "tiene un" fuerte donde la parte depende totalmente del 
 3. **Escalabilidad**.
 4. **Colaboración en equipo**.
 5. **Pruebas fáciles**.
+
+¿Cómo influye el principio de inversión de dependencia en el diseño de una aplicación?
