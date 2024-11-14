@@ -22,5 +22,8 @@ Composición: Relación "tiene un". Una clase contiene objetos de otras clases (
 7.¿Qué es un método estático y en qué situaciones es útil?
 Un método estático pertenece a la clase en lugar de a instancias específicas y puede ser llamado sin crear un objeto.
 
-¿Cuál es la diferencia entre asociación, agregación y composición?
+8.¿Cuál es la diferencia entre asociación, agregación y composición?
+Asociación: Relación débil donde una clase usa a otra temporalmente 
+Agregación: Relación "tiene un" donde las partes pueden existir independientemente
+Composición: Relación "tiene un" fuerte donde la parte depende totalmente del todo 
 
