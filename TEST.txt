@@ -19,4 +19,5 @@ La herencia y la composición son dos formas distintas de reutilizar código:
 Herencia: Relación "es un". Una clase hereda propiedades y métodos de otra (un Coche ES UN Vehículo).
 Composición: Relación "tiene un". Una clase contiene objetos de otras clases (un Coche TIENE UN Motor).
 
-¿Qué es un método estático y en qué situaciones es útil?
+7.¿Qué es un método estático y en qué situaciones es útil?
+Un método estático pertenece a la clase en lugar de a instancias específicas y puede ser llamado sin crear un objeto.
