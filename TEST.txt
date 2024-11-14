@@ -27,6 +27,10 @@ Asociación: Relación débil donde una clase usa a otra temporalmente
 Agregación: Relación "tiene un" donde las partes pueden existir independientemente
 Composición: Relación "tiene un" fuerte donde la parte depende totalmente del todo 
 
-¿Qué beneficios ofrece la modularidad en el diseño orientado a objetos?
+9.¿Qué beneficios ofrece la modularidad en el diseño orientado a objetos?
 
-
+1. **Reutilización de código**.
+2. **Mantenimiento sencillo**.
+3. **Escalabilidad**.
+4. **Colaboración en equipo**.
+5. **Pruebas fáciles**.
