@@ -27,3 +27,6 @@ Asociación: Relación débil donde una clase usa a otra temporalmente
 Agregación: Relación "tiene un" donde las partes pueden existir independientemente
 Composición: Relación "tiene un" fuerte donde la parte depende totalmente del todo 
 
+¿Qué beneficios ofrece la modularidad en el diseño orientado a objetos?
+
+
