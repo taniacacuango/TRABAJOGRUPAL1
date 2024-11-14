@@ -7,3 +7,5 @@ permite tener múltiples métodos con el mismo nombre pero diferentes parámetro
 ¿Qué es el principio de responsabilidad única en POO y por qué es importante?
  es el primer principio SOLID y establece que una clase debe tener una única razón para cambiar, es decir, debe tener una sola responsabilidad.
 
+¿Cuál es la diferencia entre la encapsulación y el ocultamiento de información?
+
